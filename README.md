@@ -12,10 +12,7 @@ Adds support for microformat/snippet friendly contact details.
 
 ### Compatibility
 
-This add-on will work with:
-
-* version 4 and up
-* version 3 and bellow
+This add-on will only work with version 5 and up.
 
 ### Installation
 

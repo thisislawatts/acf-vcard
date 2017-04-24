@@ -70,7 +70,7 @@ class acf_plugin_vcard {
 	function include_field_types( $version = false ) {
 
 		// support empty $version
-		if( !$version ) $version = 4;
+		if( !$version ) $version = 5;
 
 		// include
 		include_once('fields/acf-vcard-v' . $version . '.php');
